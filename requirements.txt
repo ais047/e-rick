@@ -1,0 +1,9 @@
+activate chatbot
+--
+
+pip install -- the following
+
+nltk
+numpy
+tflearn
+tensorflow
