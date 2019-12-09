@@ -1,9 +1,6 @@
-activate chatbot
---
-
-pip install -- the following
-
+# activate chatbot
+# pip install -- the following
 nltk
 numpy
 tflearn
-tensorflow
+tensorflow==1.14
